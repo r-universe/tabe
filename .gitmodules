@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "allometry"]
+	path = allometry
+	url = https://github.com/cran/allometry
 [submodule "rhosa"]
 	path = rhosa
 	url = https://github.com/tabe/rhosa
