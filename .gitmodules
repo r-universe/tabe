@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "allometry"]
 	path = allometry
-	url = https://github.com/cran/allometry
+	url = https://github.com/tabe/allometry
 [submodule "rhosa"]
 	path = rhosa
 	url = https://github.com/tabe/rhosa
